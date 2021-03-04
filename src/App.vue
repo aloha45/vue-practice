@@ -6,12 +6,13 @@
 </template>
 
 <script>
+
 import Form from './components/Form'
 
 export default {
   name: 'App',
   components: {
-    Form
+    Form,
   }
 }
 </script>
